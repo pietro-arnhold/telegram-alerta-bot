@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Exemplo - Produto Amazon",
+    "url": "https://www.amazon.com.br/dp/B09V3KXJPB",
+    "selector": ".a-price-whole",
+    "type": "text"
+  },
+  {
+    "name": "Exemplo - Página genérica",
+    "url": "https://example.com",
+    "selector": "h1",
+    "type": "text"
+  }
+]
